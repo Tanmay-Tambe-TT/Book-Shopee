@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.bg-custom{
+    background-color: orangered;
+}
+.bg-cust{
+    background-color: black;
+}
+.btn-outline-cust{
+    background-color: black;
+}
+.col-md-3{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+.crd-ho:hover{
+background-color: rgb(247, 245, 242);
+}
+.bg-cust{
+    background-color: rgb(250, 249, 248);
+}
